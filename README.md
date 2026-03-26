@@ -29,6 +29,7 @@ Collect items, avoid enemies, and find the key to unlock the exit.
 #        K             #
 #                     ##
 ########################
+
 **Controls**
 | Key | Action |
 | ----- | ------------------------------ |
